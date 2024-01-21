@@ -58,26 +58,11 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 <p>
   <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2004/output.png" width="48%" style="margin-right: 2%;" />
 
-  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2005/output.png" width="48%" />
+  <!-- <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2005/output.png" width="48%" /> --> 
 </p>
 
 
 
-
-
-
-<a href="------------------" target="_blank"> <img src="" alt="-----------" width="500" border="10" /></a> 
-    <a href="------------------" target="_blank"> <img src="" alt="-----------" width="500" border="10" /></a>
-<a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="-----------" width="420" border="10" /></a>
-<a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
-<a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a><a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a>
-
-<a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
-
----
-
-
-<a href="#" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/PushpakKhadke/Task-1/master/Images/IMAGE%20(2).png" alt="Pushpak_Gmail" width="330" border="10"/>  <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="Hash_Node" width="30" height="30" border="10"/> <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>  <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/> <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/>  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="Linked_In" width="30" height="30" border="10"/>
 
 <!--
 <a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
