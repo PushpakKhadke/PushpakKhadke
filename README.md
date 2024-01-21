@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/{PushpakKhadke}/{PushpakKhadke}/{main}/.github/images/{IMAGE}.{png}
+
 # Hello! I'm Pushpak <a href="https://github.com/PushpakKhadke" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a>
 
 <a href="#" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
