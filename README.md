@@ -51,40 +51,16 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 
 <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
 
+---
+ 
 
-<!-- How to add youtube videos
+<a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090326-c45aaf2e-9e8e-4037-a25d-812fdb6cf3f4.png" alt="Pushpak_Gmail" width="230" border="10"/>  <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="Hash_Node" width="30" height="30" border="10"/> <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>  <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/> <a href="#" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/>  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="Linked_In" width="30" height="30" border="10"/>
 
-<a href="https://www.youtube.com/watch?v=60ItHLz5WEA" target="_blank"><img src="https://github.com/NileshNama/Assets/blob/main/Alan%20Walker.jpg"
-alt="jubin yt video" width="240"  border="10" /></a>
+<!--
+<a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
 -->
 
-<!-- Badges/ Achivement section by Nilesh Nama-->
 
-## Badges
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&width=600&height=100&lines=Thank+you+so+much%2C+have+a+great+day+!)](https://github.com/PushpakKhadke)
 
-**verified accomplishments**
 
-<a href="https://www.credly.com/badges/2bcf6e67-31d5-4469-a63c-f07c8ec51c17/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089026-405ba919-981e-460a-881e-a34e5a6c9de8.png" alt="Google ITSupport Certified" width="120"  border="10"/> </a>
-
- <!-- Coding platform Profiles -->
-
-## I turn code into reality at
-
-<a href="https://leetcode.com/nilesh_nama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089282-f6260782-7556-4442-af16-6a182d46b477.svg"  alt="LeetCode Profile"  border="10"/> </a> <a href="https://auth.geeksforgeeks.org/user/nilesh_nama/profile" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089345-8fc259f2-2e95-47ec-a2a0-4d90b02e4d01.svg"  alt="GFG Profile"  border="10"/> </a> <a href="https://www.hackerrank.com/Nilesh_Nama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089233-bc1bffc9-d716-4b41-9bf8-7f0a25be605d.svg"  alt="HackerRank Profile"  border="10"/> </a>
-<a href="https://www.hackerearth.com/@Nilesh_Nama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089213-111032ed-3825-40ac-9e9d-d70a41826dea.svg"  alt="HackerEarth Profile"  border="10"/> </a> <a href="https://codeforces.com/profile/nileshnama1997" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089327-8f3635d5-9ad6-4718-bc29-b1d26bb0bcb9.svg"  alt="CodeForces Profile"  border="10"/> </a> <a href="https://www.codechef.com/users/nileshnama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182089310-67fbf72c-a422-49b2-9454-e7408b11781b.svg"  alt="CodeChef Profile"  border="10"/> </a>
-
----
-
- <!-- Connect with me section by NileshNama  -->
-
-<a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090326-c45aaf2e-9e8e-4037-a25d-812fdb6cf3f4.png" alt="Nilesh gmail" width="230" border="10"/> </a>
-
-<a href="https://hashnode.com/@NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="HashNode" width="30" height="30" border="10"/> <a href="https://www.twitter.com/NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>
-<a href="https://instagram.com/tsoneil" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/>
-<a href="https://www.facebook.com/nilesh.nama.1997" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/> <a href="https://www.linkedin.com/in/nileshnama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="LinkedIN" width="30" height="30" border="10"/> <a href="https://www.findcoder.io/u/nileshnama" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
-
- <!-- moving text -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&width=600&height=100&lines=thank+you+so+much%2C+have+a+great+day+!)](https://github.com/NileshNama)
-
-<!-- End of the File by NileshNama NileshNama and MIT Licensed-->
