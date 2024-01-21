@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello! I'm Pushpak <a href="https://github.com/PushpakKhadke" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a> </h1>
+<h1> Hello! I'm Pushpak <a href="https://github.com/PushpakKhadke" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a> </h1>
 
 <a href="#" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
 *visit :*  [`CV`]() 
@@ -7,7 +7,7 @@
 
 I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
 
-> Have a zeal for penetration testing and problem-solving, thus, like to involve myself in constant learning, always curious about learning new things.I am a Probelm Solver.I'm a passionate Web Developer from Bangladesh with over 1 years of experience in building web applications using Golang, PHP, Laravel, ReactJS,NextJS , MySQL etc.
+> "IoT Developer passionate about making devices smarter and more connected. Expertise in sensors, cloud technology, and smooth connectivity. Turning ideas into reality through innovative coding. Let's collaborate and build the future of IoT! 👨‍💻🌐✨"
 
 
 ## 🚀 Skills
