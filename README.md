@@ -42,9 +42,7 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 
 ## CodeLab
 
-**Alive-in-Production**, _just tap there!_
-
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314771-6a555f37-391d-4d4c-8625-8b99ca8bb633.png" alt="-----------" width="420" border="10" /></a>
+<a href="------------------" target="_blank"> <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2001/output.png" alt="-----------" width="420" border="10" /></a>
 <a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314745-e8819767-2b90-496e-b21b-47f233a6c460.png" alt="-----------" width="420" border="10" /></a>
 <a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="-----------" width="420" border="10" /></a>
 <a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
