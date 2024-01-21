@@ -42,8 +42,32 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 
 ## CodeLab
 
-<a href="------------------" target="_blank"> <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2001/output.png" alt="-----------" width="620" border="10" /></a> <br>
-<a href="------------------" target="_blank"> <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2002/output.png" alt="-----------" width="420" border="10" /></a>
+
+<p>
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2001/output.png" width="48%" style="margin-right: 2%;" />
+
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2002/output.png" width="48%" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2003/output.png" width="48%" style="margin-right: 2%;" />
+
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2006/Output.png" width="48%" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2004/output.png" width="48%" style="margin-right: 2%;" />
+
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2005/output.png" width="48%" />
+</p>
+
+
+
+
+
+
+<a href="------------------" target="_blank"> <img src="" alt="-----------" width="500" border="10" /></a> 
+    <a href="------------------" target="_blank"> <img src="" alt="-----------" width="500" border="10" /></a>
 <a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="-----------" width="420" border="10" /></a>
 <a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
 <a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a><a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a>
