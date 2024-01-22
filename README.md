@@ -42,21 +42,23 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 
 ## CodeLab
 
-
+<a href="#">
 <p>
-  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2001/output.png" width="48%" style="margin-right: 2%;" />
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2001/output.png" width="48%" style="margin-right: 2%;" /> 
 
   <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2002/output.png" width="48%" />
-</p>
+</p> </a>
 
+<a href="#">
 <p>
   <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2003/output.png" width="48%" style="margin-right: 2%;" />
 
   <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2006/Output.png" width="48%" />
-</p>
+</p> </a>
 
+<a href="#">
 <p>
-  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2004/output.png" width="48%" style="margin-right: 2%;" />
+  <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2004/output.png" width="48%" style="margin-right: 2%;" /> </a>
 
   <!-- <img src="https://raw.githubusercontent.com/PushpakKhadke/Ineuron-Full-Stack-JavaScript-2.0/main/Projects/FSJS%202.0%20Project%2005/output.png" width="48%" /> --> 
 </p>
