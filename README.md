@@ -17,8 +17,8 @@ I'm a **Iot Developer** from <a href="https://github.com/PushpakKhadke" target="
 </a> -->
 
 <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,linux" alt="c" width="40" height="40"/> 
-</a> -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,linux" alt="sskills_Icon" /> 
+</a> 
 
 
 ## 📫 Links
