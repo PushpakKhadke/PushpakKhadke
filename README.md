@@ -1,7 +1,7 @@
 
 <h1> Hello! I'm Pushpak <a href="https://github.com/PushpakKhadke" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a> </h1>
 
-<a href="#" target="_blank" > <img align="right"  src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
+<a href="#" target="_blank" > <img align="right"  src="https://raw.githubusercontent.com/PushpakKhadke/Task-1/master/Images/image%2011.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
 *visit :*  [`CV`]() 
 
 
